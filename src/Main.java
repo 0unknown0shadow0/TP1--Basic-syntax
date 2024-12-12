@@ -157,11 +157,7 @@ public class Main {
 //        }
 
 
-while
-    do while
 
-    for
-                arrays
 
 
     }
